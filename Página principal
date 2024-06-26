@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Massiel Sequeira Obando - HR Business Partner</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #6c757d;
+            color: #fff;
+            padding: 1em 0;
+            text-align: center;
+        }
+        section {
+            padding: 2em;
+            max-width: 800px;
+            margin: auto;
+        }
+        h1, h2, h3 {
+            color: #343a40;
+        }
+        .intro, .projects, .goals, .contact {
+            margin-bottom: 2em;
+        }
+        .projects ul, .goals ul {
+            list-style-type: disc;
+            margin-left: 1.5em;
+        }
+        footer {
+            background-color: #343a40;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Massiel Sequeira Obando</h1>
+        <p>HR Business Partner</p>
+    </header>
+    <section class="intro">
+        <h2>Sobre Mí</h2>
+        <p>Soy Massiel Sequeira Obando, y estoy emocionada de compartirles lo que me hace única como HR Business Partner. En un mundo laboral que demanda cada vez más habilidades multifacéticas, me destaco por mi combinación única de experiencias y pasiones que me han moldeado en quien soy hoy.</p>
+        <p>Desde mis primeros pasos en el mundo laboral, me he sumergido en el apasionante campo de las relaciones humanas. En mi última posición laboral he tenido el privilegio de trabajar en diversas áreas, desde reclutamiento y selección hasta desarrollo organizacional. Esta trayectoria me ha otorgado una perspectiva amplia y profunda sobre las necesidades y desafíos del personal en las organizaciones.</p>
+        <p>Mi formación en Finanzas es un aspecto que a menudo sorprende a las personas, pero para mí, es una parte esencial de mi identidad profesional. Entiendo la importancia de equilibrar las necesidades financieras de la empresa con el bienestar y desarrollo de su capital humano. Esta perspectiva financiera me permite tomar decisiones estratégicas que impulsan el crecimiento sostenible tanto de los colaboradores como de la empresa en su conjunto.</p>
+        <p>Mi verdadera pasión radica en la atención y el cuidado del personal. Creo firmemente que el éxito de cualquier empresa radica en el bienestar y compromiso de sus colaboradores. Mi objetivo es crear un ambiente donde cada individuo se sienta valorado, escuchado y apoyado en su crecimiento profesional y personal.</p>
+        <p>El deporte ha sido una constante en mi vida, enseñándome lecciones valiosas que trascienden las canchas y se aplican directamente al mundo laboral. La disciplina, el trabajo en equipo, la resiliencia y la capacidad para superar obstáculos son habilidades que he perfeccionado a lo largo de los años como deportista. Estas cualidades son fundamentales en mi enfoque para crear entornos laborales positivos y productivos.</p>
+        <p>En resumen, mi experiencia en Talento Humano, formación en Finanzas, espíritu deportista y pasión por la atención de personal se combinan para ofrecer un enfoque integral y centrado en las personas en el rol de HR Business Partner. Estoy lista para aportar mi energía, creatividad y dedicación para impulsar el éxito de nuestro equipo y organización.</p>
+        <p>Adicionalmente, me gustan las lecturas de crecimiento personal, profesional, autoestima, autodesarrollo, liderazgo, de negocios, de recursos humanos, de efectividad, de gestión de tiempo, etc. Y actualmente practico CrossFit de lunes a viernes de 5:20am a 6:20am.</p>
+    </section>
+    <section class="projects">
+        <h2>Proyectos</h2>
+        <ul>
+            <li>Formar un hogar (casarme, tener uno o dos hijos)</li>
+            <li>Comprar casa propia en Costa Rica y otra en Nicaragua (una en la montaña o lugar con mucha naturaleza y árboles y otra en zona costera o de playa)</li>
+            <li>Cambiar mi carro actual por uno más grande y a todo terreno</li>
+            <li>Tener un negocio propio de bienes raíces como un complejo de apartamentos</li>
+            <li>Vender algo útil y necesario para el resto de la vida de las personas</li>
+            <li>Tener una cadena de restaurantes, hoteles o talleres mecánicos</li>
+        </ul>
+    </section>
+    <section class="goals">
+        <h2>Metas Profesionales</h2>
+        <ul>
+            <li>Convertirme en Gerente General de una empresa</li>
+            <li>Desarrollar y mantener relaciones estratégicas</li>
+            <li>Implementar estrategias de talento humano</li>
+            <li>Fomentar un ambiente laboral positivo en mi lugar de trabajo o en mi propia empresa</li>
+            <li>Promover el bienestar y desarrollo personal</li>
+        </ul>
+    </section>
+    <section class="contact">
+        <h2>Contacto</h2>
+        <p>Para más información o para ponerse en contacto conmigo, por favor envíe un correo electrónico a: <a href="mailto:massiel@example.com">massiel@example.com</a></p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Massiel Sequeira Obando. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
